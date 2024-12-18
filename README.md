@@ -1,4 +1,3 @@
-# Student-Result-Management-System
 # Student Result Management System
 
 A Python-based project that automates the process of recording, managing, and publishing student examination results. This system is designed to provide a user-friendly and secure platform for students, faculty, and administrators.
